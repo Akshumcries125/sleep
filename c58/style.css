@@ -1,0 +1,83 @@
+img {
+    width: 100px;
+    border-radius: 50%;
+}
+
+body {
+    text-align: center;
+    background-image: linear-gradient(yellow, orange, red, purple);
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+p {
+    font-size: 20px;
+}
+
+section {
+    padding: 20px;
+}
+
+.menu {
+    list-style: none;
+    font-family: 'Comic Neue', cursive;
+    position: absolute;
+    top: 10px;
+    left: 1px;
+    z-index: 10;
+    cursor: pointer;
+}
+
+.links {
+    float: left;
+    color: Black;
+    padding-left: 9;
+    padding-bottom: 5;
+    padding-top: 5;
+    padding-right: 9;
+    font-family: serif;
+    font-size: 20px;
+    margin-left: 8px;
+}
+
+.links:hover {
+    background-color: cyan;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+h3 {
+    font-size: 30px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+#dreams {
+    font-size: 50px;
+}
+
+#inspire {
+    font-size: 45px;
+}
+
+#hibernate {
+    font-size: 30px;
+}
+
+#bear {
+    width: 300px;
+}
+
+#gs {
+    width: 300px;
+}
